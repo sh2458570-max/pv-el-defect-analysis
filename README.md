@@ -3,7 +3,7 @@
 **Xiaoyu Shang · Lisbon College, Shanghai University**  
 Independent course project · April–June 2026
 
-[View the project report (PDF)](./pv-el-report.pdf)
+[View the project report (PDF)][(./pv-el-report.pdf)](https://github.com/sh2458570-max/pv-el-defect-analysis/blob/main/pv-el-report.pdf.pdf)
 
 ## Project overview
 
